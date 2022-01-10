@@ -1,1 +1,1 @@
-# Practing git
+# Practicing git
